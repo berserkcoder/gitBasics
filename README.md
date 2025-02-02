@@ -17,3 +17,4 @@ git remote -v
 git push origin main
 git branch branchname
 git checkout branchname
+git push origin main -f
